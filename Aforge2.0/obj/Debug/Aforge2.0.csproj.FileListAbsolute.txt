@@ -1,0 +1,51 @@
+C:\Users\MSI\source\repos\Aforge2.0\Aforge2.0\obj\Debug\Aforge2.0.csproj.AssemblyReference.cache
+C:\Users\MSI\source\repos\Aforge2.0\Aforge2.0\obj\Debug\Aforge2.0.csproj.SuggestedBindingRedirects.cache
+C:\Users\MSI\source\repos\Aforge2.0\Aforge2.0\obj\Debug\MainWindow.g.cs
+C:\Users\MSI\source\repos\Aforge2.0\Aforge2.0\obj\Debug\App.g.cs
+C:\Users\MSI\source\repos\Aforge2.0\Aforge2.0\obj\Debug\Aforge2.0_MarkupCompile.cache
+C:\Users\MSI\source\repos\Aforge2.0\Aforge2.0\obj\Debug\Aforge2.0_MarkupCompile.lref
+C:\Users\MSI\source\repos\Aforge2.0\Aforge2.0\bin\Debug\Aforge2.0.exe.config
+C:\Users\MSI\source\repos\Aforge2.0\Aforge2.0\bin\Debug\Aforge2.0.exe
+C:\Users\MSI\source\repos\Aforge2.0\Aforge2.0\bin\Debug\Aforge2.0.pdb
+C:\Users\MSI\source\repos\Aforge2.0\Aforge2.0\bin\Debug\AForge.Imaging.dll
+C:\Users\MSI\source\repos\Aforge2.0\Aforge2.0\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\MSI\source\repos\Aforge2.0\Aforge2.0\bin\Debug\AForge.Video.dll
+C:\Users\MSI\source\repos\Aforge2.0\Aforge2.0\bin\Debug\AForge.dll
+C:\Users\MSI\source\repos\Aforge2.0\Aforge2.0\bin\Debug\AForge.Math.dll
+C:\Users\MSI\source\repos\Aforge2.0\Aforge2.0\bin\Debug\AForge.Imaging.xml
+C:\Users\MSI\source\repos\Aforge2.0\Aforge2.0\bin\Debug\AForge.Video.xml
+C:\Users\MSI\source\repos\Aforge2.0\Aforge2.0\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\MSI\source\repos\Aforge2.0\Aforge2.0\bin\Debug\AForge.xml
+C:\Users\MSI\source\repos\Aforge2.0\Aforge2.0\bin\Debug\AForge.Math.xml
+C:\Users\MSI\source\repos\Aforge2.0\Aforge2.0\obj\Debug\MainWindow.baml
+C:\Users\MSI\source\repos\Aforge2.0\Aforge2.0\obj\Debug\Aforge2.0.g.resources
+C:\Users\MSI\source\repos\Aforge2.0\Aforge2.0\obj\Debug\Aforge2._0.Properties.Resources.resources
+C:\Users\MSI\source\repos\Aforge2.0\Aforge2.0\obj\Debug\Aforge2.0.csproj.GenerateResource.cache
+C:\Users\MSI\source\repos\Aforge2.0\Aforge2.0\obj\Debug\Aforge2.0.csproj.CoreCompileInputs.cache
+C:\Users\MSI\source\repos\Aforge2.0\Aforge2.0\obj\Debug\Aforge2.0.csproj.CopyComplete
+C:\Users\MSI\source\repos\Aforge2.0\Aforge2.0\obj\Debug\Aforge2.0.exe
+C:\Users\MSI\source\repos\Aforge2.0\Aforge2.0\obj\Debug\Aforge2.0.pdb
+C:\Users\PCGamer\Desktop\Proyectos Mios\procesamiento digital de imagenes\Aforge2.0\Aforge2.0\bin\Debug\Aforge2.0.exe.config
+C:\Users\PCGamer\Desktop\Proyectos Mios\procesamiento digital de imagenes\Aforge2.0\Aforge2.0\bin\Debug\Aforge2.0.exe
+C:\Users\PCGamer\Desktop\Proyectos Mios\procesamiento digital de imagenes\Aforge2.0\Aforge2.0\bin\Debug\Aforge2.0.pdb
+C:\Users\PCGamer\Desktop\Proyectos Mios\procesamiento digital de imagenes\Aforge2.0\Aforge2.0\bin\Debug\AForge.dll
+C:\Users\PCGamer\Desktop\Proyectos Mios\procesamiento digital de imagenes\Aforge2.0\Aforge2.0\bin\Debug\AForge.Math.dll
+C:\Users\PCGamer\Desktop\Proyectos Mios\procesamiento digital de imagenes\Aforge2.0\Aforge2.0\bin\Debug\AForge.xml
+C:\Users\PCGamer\Desktop\Proyectos Mios\procesamiento digital de imagenes\Aforge2.0\Aforge2.0\bin\Debug\AForge.Imaging.xml
+C:\Users\PCGamer\Desktop\Proyectos Mios\procesamiento digital de imagenes\Aforge2.0\Aforge2.0\bin\Debug\AForge.Video.xml
+C:\Users\PCGamer\Desktop\Proyectos Mios\procesamiento digital de imagenes\Aforge2.0\Aforge2.0\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\PCGamer\Desktop\Proyectos Mios\procesamiento digital de imagenes\Aforge2.0\Aforge2.0\bin\Debug\AForge.Math.xml
+C:\Users\PCGamer\Desktop\Proyectos Mios\procesamiento digital de imagenes\Aforge2.0\Aforge2.0\obj\Debug\Aforge2.0.csproj.AssemblyReference.cache
+C:\Users\PCGamer\Desktop\Proyectos Mios\procesamiento digital de imagenes\Aforge2.0\Aforge2.0\obj\Debug\Aforge2.0.csproj.SuggestedBindingRedirects.cache
+C:\Users\PCGamer\Desktop\Proyectos Mios\procesamiento digital de imagenes\Aforge2.0\Aforge2.0\obj\Debug\MainWindow.g.cs
+C:\Users\PCGamer\Desktop\Proyectos Mios\procesamiento digital de imagenes\Aforge2.0\Aforge2.0\obj\Debug\App.g.cs
+C:\Users\PCGamer\Desktop\Proyectos Mios\procesamiento digital de imagenes\Aforge2.0\Aforge2.0\obj\Debug\Aforge2.0_MarkupCompile.cache
+C:\Users\PCGamer\Desktop\Proyectos Mios\procesamiento digital de imagenes\Aforge2.0\Aforge2.0\obj\Debug\Aforge2.0_MarkupCompile.lref
+C:\Users\PCGamer\Desktop\Proyectos Mios\procesamiento digital de imagenes\Aforge2.0\Aforge2.0\obj\Debug\MainWindow.baml
+C:\Users\PCGamer\Desktop\Proyectos Mios\procesamiento digital de imagenes\Aforge2.0\Aforge2.0\obj\Debug\Aforge2.0.g.resources
+C:\Users\PCGamer\Desktop\Proyectos Mios\procesamiento digital de imagenes\Aforge2.0\Aforge2.0\obj\Debug\Aforge2._0.Properties.Resources.resources
+C:\Users\PCGamer\Desktop\Proyectos Mios\procesamiento digital de imagenes\Aforge2.0\Aforge2.0\obj\Debug\Aforge2.0.csproj.GenerateResource.cache
+C:\Users\PCGamer\Desktop\Proyectos Mios\procesamiento digital de imagenes\Aforge2.0\Aforge2.0\obj\Debug\Aforge2.0.csproj.CoreCompileInputs.cache
+C:\Users\PCGamer\Desktop\Proyectos Mios\procesamiento digital de imagenes\Aforge2.0\Aforge2.0\obj\Debug\Aforge2.0.csproj.CopyComplete
+C:\Users\PCGamer\Desktop\Proyectos Mios\procesamiento digital de imagenes\Aforge2.0\Aforge2.0\obj\Debug\Aforge2.0.exe
+C:\Users\PCGamer\Desktop\Proyectos Mios\procesamiento digital de imagenes\Aforge2.0\Aforge2.0\obj\Debug\Aforge2.0.pdb
